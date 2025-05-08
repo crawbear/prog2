@@ -14,7 +14,8 @@ from statistics import mean
 from time import perf_counter as pc
 import numpy as np
 
-def approximate_pi(n): # Ex1
+#Ex 1
+def approximate_pi(n): 
     nc = []
     in_ = 0
     ns = []
