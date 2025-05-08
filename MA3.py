@@ -1,7 +1,7 @@
 """ MA3.py
 
-Student:
-Mail:
+Student: Christian Steen Aune
+Mail: 
 Reviewed by:
 Date reviewed:
 
