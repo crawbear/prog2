@@ -1,7 +1,7 @@
 """ MA3.py
 
 Student: Christian Steen Aune
-Mail: 
+Mail: crawbearstone@gmail.com
 Reviewed by:
 Date reviewed: 08/05 -2025
 
